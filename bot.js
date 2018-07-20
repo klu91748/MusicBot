@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const YTDL = require("ytdl-core");
 
-const PREFIX = "."
+const PREFIX = ".";
 
 var bot = new Discord.Client();
 
