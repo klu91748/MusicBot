@@ -1,13 +1,11 @@
 {
-  "name": "bot",
-  "version": "1.0.0",
-  "description": "music bot",
+  "name": "Test",
+  "version": "0.0.0",
+  "description": "Test",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "Kevin",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
     "opusscript": "0.0.6",
